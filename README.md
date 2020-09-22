@@ -1,2 +1,1 @@
-# study
-Study material for DevOps proffesionals
+# Study material for DevOps proffesionals
